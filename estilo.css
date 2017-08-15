@@ -1,0 +1,17 @@
+.container{
+background: #ccc;
+color:black;
+text-align: center;
+font-size: 30px;
+width: 50%;
+height: 50%;
+padding: 10px;
+margin: auto;
+margin-top: 10%;
+}
+.container h2{
+  color:black;
+}
+.container strong{
+  color:black;
+}
